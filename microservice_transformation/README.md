@@ -172,7 +172,7 @@ Hollis Skiles: Since before cocky was an egg.
 
 ## Summary
 
-In this lesson you got our monolith up and running using Docker containers for the datastore(MySQL) and key-value store(Redis). 
+In this lesson you got our monolith up and running using Docker containers for the datastore(MySQL) and key-value store(Redis). In addition, we externalized our Report Generation application making it a separate report generating microservice.
 
 ----
 
