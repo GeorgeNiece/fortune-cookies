@@ -50,7 +50,8 @@ mysql>
      );`
      
  mysql> `quit`
- # `exit`
+ 
+ #> `exit`
 
 **Step X:**  Retrieve the IP for our Minikube environment
  
