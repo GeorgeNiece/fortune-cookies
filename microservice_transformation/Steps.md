@@ -6,11 +6,13 @@ Tested in Katacoda Minikube environment on Ubuntu 18.04
 ## Steps
 
 **Step X:** Start Minikube
+
 `minikube start` {{execute}}
 
 You should see that Minikube has started in your Katakoda environment
 
 **Step X:** Pull the repo
+
 `git clone https://github.com/reselbob/fortune-cookies.git` {{execute}}
 
 **Step X:** Start our Redis container in docker, exposing the port on our container
