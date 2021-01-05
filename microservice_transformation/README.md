@@ -108,13 +108,21 @@ Don't forget the period
 We should see something like the following from our log tail
 
 Greetings from Avery Doyle: It is easier to destroy than to build.
+
 Greetings from Laurine Kirlin: If at first you don't succeed, skydiving is not for you.
+
 Greetings from Bette Collins: Love does much but money does all.
+
 Greetings from Monte Weber: Never quarrel with one's bread and butter.
+
 1 record inserted into fortunedb:fortunes
+
 1 record inserted into fortunedb:fortunes
+
 1 record inserted into fortunedb:fortunes
+
 1 record inserted into fortunedb:fortunes
+
 
 If there were a typo in the files, we failed to start a container for Redis correctly, had an issue with the MySQL DB/Table creation, or didn't correctly update the host port for the Redis or MySQL in our Sender NodeJS service we'll need to remediate and then, stop, remove, rebuilt and re-run our monolith.
 
@@ -142,15 +150,25 @@ Then review the logs again
 We should see something like the following
 
 Hardy Brakus: There is no better looking-glass than an old friend.
+
 Remington Bechtelar: Love does much but money does all.
+
 Avery Doyle: As is the gardener so is the garden.
+
 Humberto West: You are what you eat.
+
 Bette Collins: Not in a month of Sundays.
+
 Monte Weber: Everybody must row with the oars he has.
+
 Laurine Kirlin: It's an old dog for a hard road.
+
 Addie D'Amore: Call a spade a spade.
+
 Sedrick Hilpert: Hasty climbers have sudden falls.
+
 Hollis Skiles: Since before cocky was an egg.
+
 
 ## Summary
 
